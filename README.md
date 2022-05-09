@@ -14,7 +14,7 @@ Skills: Dart/ Flutter / Python / C# / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoRmdn&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MoRmdn)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MoRmdn)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MoRmdn)  
 
