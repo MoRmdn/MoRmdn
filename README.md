@@ -1,4 +1,4 @@
-![Software Developer  ](https://raw.githubusercontent.com/MoRmdn/MoRmdn/main/wallpaperflare.com_wallpaper.jpg)
+![Software Developer  ](https://raw.githubusercontent.com/MoRmdn/MoRmdn/main/wallpaperflare-cropped.jpg)
 ### Hi there 👋, I'm Mohamed Ramadan
 #### Software Developer  
 
