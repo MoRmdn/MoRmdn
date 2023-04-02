@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Mohamed Ramadan
 #### Software Developer  
 
-Skills: Dart/ Flutter / Python / C# / JS / HTML / CSS
+Skills: Dart/ Flutter / PHP / Python / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. eCommerce application 
 - 🌱 I’m currently learning every thing 
