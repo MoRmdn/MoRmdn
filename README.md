@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ramadan</h1>
 <h3 align="center">Software Mobile Developer || Flutter Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mormdn&label=Profile%20(views + 5000)&color=0e75b6&style=flat" alt="mormdn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mormdn&label=Profile%20 views &color=0e75b6&style=flat" alt="mormdn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mormdn" alt="mormdn" /></a> </p>
 
