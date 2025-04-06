@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/mormdn" target="blank"><img src="https://img.shields.io/twitter/follow/mormdn?logo=twitter&style=for-the-badge" alt="mormdn" /></a> </p>
 
-- 🔭 I’m currently working on **[Saber](https://saber-yemen.com/)**
+- 🔭 I’m currently working in **[MisMar](https://mismarapp.com/)**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
