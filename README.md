@@ -42,37 +42,61 @@ I'm a Mobile Developer with **4+ years of experience** building high-performance
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
 
-**State Management** — Bloc • Cubit • Getx • Provider • Riverpod
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**State Management**
+
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
+![Getx](https://img.shields.io/badge/Getx-8A2BE2?style=for-the-badge&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0288D1?style=for-the-badge&logoColor=white)
 
 **Backend & Services**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
 
-Firebase • SQLite • Hive • REST APIs • GraphQL • Socket.IO • Pusher • Google Maps API
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Architecture & Practices** — Clean Architecture • SOLID Principles • OOP • Responsive Design • Unit & Widget Testing • Agile / GitFlow
+**Architecture & Practices**
 
-**Payment Integrations** — Stripe • PayPal • PayStack • FlutterWave • PayU • Moyaser • Fawry
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FF5722?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-1E88E5?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive_Design-009688?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Unit_&_Widget_Testing-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitFlow](https://img.shields.io/badge/Agile_/_GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Payment Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![PayStack](https://img.shields.io/badge/PayStack-00C3F7?style=for-the-badge&logoColor=white)
+![FlutterWave](https://img.shields.io/badge/FlutterWave-F5A623?style=for-the-badge&logoColor=white)
+![PayU](https://img.shields.io/badge/PayU-A6C307?style=for-the-badge&logoColor=white)
+![Moyaser](https://img.shields.io/badge/Moyaser-000000?style=for-the-badge&logoColor=white)
+![Fawry](https://img.shields.io/badge/Fawry-FDBA12?style=for-the-badge&logoColor=black)
 
 **Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ---
 
 ### 📊 Impact Highlights
