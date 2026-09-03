@@ -1,9 +1,10 @@
 ![Mohamed Ramadan](https://raw.githubusercontent.com/MoRmdn/MoRmdn/main/wallpaperflare-cropped.jpg)
 
 <h1 align="center">Mohamed Ramadan</h1>
-<h3 align="center">Senior Flutter Developer — cross-platform apps for Android and iOS</h3>
+<h3 align="center">Flutter Developer — cross-platform apps for Android and iOS</h3>
 
 <p align="center">
+  <a href="https://m0rmdn.web.app"><img src="https://img.shields.io/badge/Portfolio-m0rmdn.web.app-D95A15?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Shipped-5%20apps%20on%20App%20Store%20%26%20Google%20Play-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Mansoura%2C%20Egypt-orange?style=flat-square" />
@@ -12,10 +13,11 @@
 
 ---
 
-I build and ship production Flutter apps end to end — architecture, state, Firebase back end, store release. Five years of it, delivered remotely to teams in Saudi Arabia, Morocco, Libya, Türkiye and the UK, across healthcare, e-commerce, driver education, field service and AI platforms.
+I build and ship production Flutter apps end to end — architecture, state, Firebase back end, store release. Five years of it, delivered remotely to teams in Saudi Arabia, Morocco, Libya, Türkiye, Algeria and the UK, across healthcare, e-commerce, driver education, field service and AI platforms.
 
 The work I am known for is the awkward part of mobile: apps that stay usable with no signal, Arabic-first interfaces that are right-to-left by design rather than by patch, and payment flows that have to clear in seven different gateways.
 
+- **Portfolio → [m0rmdn.web.app](https://m0rmdn.web.app)**
 - Currently a Flutter Developer at **[MisMar](https://mismarapp.com/)**
 - Five apps live on the App Store and Google Play, several built solo from empty repo to release
 - Offline-first Firestore synchronisation, Cloud Functions, and security-rule authorisation
@@ -29,11 +31,13 @@ The work I am known for is the awkward part of mobile: apps that stay usable wit
 
 | Project | What it is | Built with | Links |
 |---|---|---|---|
-| **Arcit-AI** | Social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking and task automation | Bloc, AI model integration | [App Store](PASTE_APP_STORE_URL) · [Google Play](PASTE_PLAY_URL) |
-| **Mutabbib** | Medical social network connecting patients with hospitals, clinics and doctors, with schedule and availability tracking | Bloc, real-time sync, secure storage | [App Store](PASTE_APP_STORE_URL) · [Google Play](PASTE_PLAY_URL) |
-| **Lpermis** | Driving-theory testing and appointment booking, used by driving schools across Morocco. Led from initial architecture to release | GetX | [App Store](PASTE_APP_STORE_URL) · [Google Play](PASTE_PLAY_URL) |
-| **Lpermis Pro** | Companion edition for schools managing lesson bookings across multiple user roles | Cubit, multi-role logic | [App Store](PASTE_APP_STORE_URL) · [Google Play](PASTE_PLAY_URL) |
-| **Saber Yamen** | Multi-vendor marketplace for new and used items, built from scratch | GetX | [App Store](PASTE_APP_STORE_URL) · [Google Play](PASTE_PLAY_URL) |
+| **Arcit-AI** | Social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking and task automation | Bloc, AI model integration | [App Store](https://apps.apple.com/eg/app/arcit-ai/id6503910700) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.arcitAI) |
+| **Mutabbib** | Medical social network connecting patients with hospitals, clinics and doctors, with schedule and availability tracking | Bloc, real-time sync, secure storage | [App Store](https://apps.apple.com/eg/app/mutabbib-%D9%85%D8%B7%D8%A8%D8%A8/id6563148338) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.mutabbib) |
+| **Lpermis** | Driving-theory testing and appointment booking, used by driving schools across Morocco. Led from initial architecture to release | GetX | [App Store](https://apps.apple.com/eg/app/lpermis/id1635317382) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.code) |
+| **Lpermis Pro** | Companion edition for schools managing lesson bookings across multiple user roles | Cubit, multi-role logic | [App Store](https://apps.apple.com/eg/app/lpermis-pro/id6467557160) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.institution) |
+| **Saber Yamen** | Multi-vendor marketplace for new and used items, built from scratch | GetX | [App Store](https://apps.apple.com/gb/app/saber/id6467415590) · [Google Play](https://play.google.com/store/apps/details?id=com.elevenstars.saber) |
+
+Also shipped: **MisMar** (vehicle service, Egypt) · **FreeDoc** (trilingual doctor booking, Algeria) · **O'Permis** (driving licences, Morocco) · **Dental Dinar** (oral-health companion) · **Savior App**.
 
 ---
 
@@ -53,11 +57,18 @@ An Arabic-first field-service reporting app for a medical-equipment maintenance 
 
 ---
 
+### Also on the web
+
+**[JS Quest](https://js-basics-quiz.vercel.app)** — a free 100-question JavaScript course, built on React, Vite and Supabase. Five chapters that unlock in order, progress saved to Postgres so you can close the tab and come back, and correct answers withheld server-side behind row-level security — the quiz can't be beaten by reading the network tab. Written this year alongside Scrimba's JavaScript and React courses, with Next.js in progress.
+
+---
+
 ### Tech stack
 
 **Languages** ·
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **State management** ·
@@ -70,6 +81,7 @@ An Arabic-first field-service reporting app for a medical-equipment maintenance 
 **Back end and data** ·
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -102,12 +114,13 @@ Figures below are as reported by the client teams I delivered to.
 ### Background
 
 B.Sc. Bioinformatics, Mansoura University (2021) — final-year project graded A+, on mobile application data analysis and visualisation.
-Google Flutter Developer Certification, Udemy (2022) · Android Basics Nanodegree, Udacity (2020).
+Google Flutter Developer Certification, Udemy (2022) · Android Basics Nanodegree, Udacity (2020) · Learn JavaScript and Learn React, Scrimba (2026).
 Arabic — native. English — professional working proficiency.
 
 ---
 
 <p align="center">
+  <a href="https://m0rmdn.web.app"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:mormdn@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mormdn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/mormdn"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
