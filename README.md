@@ -127,10 +127,10 @@ Arabic — native. English — professional working proficiency.
   <a href="https://www.upwork.com/freelancers/mormdn"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MoRmdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoRmdn&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MoRmdn&theme=tokyonight" />
