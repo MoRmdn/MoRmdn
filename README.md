@@ -120,7 +120,7 @@ Arabic — native. English — professional working proficiency.
 ---
 
 <p align="center">
-  <a href="https://mormdn.app"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://mormdn.com"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:mormdn@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mormdn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/mormdn"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
