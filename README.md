@@ -4,7 +4,7 @@
 <h3 align="center">Flutter Developer — cross-platform apps for Android and iOS</h3>
 
 <p align="center">
-  <a href="https://m0rmdn.web.app"><img src="https://img.shields.io/badge/Portfolio-m0rmdn.web.app-D95A15?style=flat-square" /></a>
+  <a href="https://mormdn.com"><img src="https://img.shields.io/badge/Portfolio-mormdn.com-D95A15?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Shipped-5%20apps%20on%20App%20Store%20%26%20Google%20Play-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Mansoura%2C%20Egypt-orange?style=flat-square" />
@@ -17,7 +17,7 @@ I build and ship production Flutter apps end to end — architecture, state, Fir
 
 The work I am known for is the awkward part of mobile: apps that stay usable with no signal, Arabic-first interfaces that are right-to-left by design rather than by patch, and payment flows that have to clear in seven different gateways.
 
-- **Portfolio → [m0rmdn.web.app](https://m0rmdn.web.app)**
+- **Portfolio → [mormdn.app](https://mormdn.app)**
 - Currently a Flutter Developer at **[MisMar](https://mismarapp.com/)**
 - Five apps live on the App Store and Google Play, several built solo from empty repo to release
 - Offline-first Firestore synchronisation, Cloud Functions, and security-rule authorisation
@@ -120,7 +120,7 @@ Arabic — native. English — professional working proficiency.
 ---
 
 <p align="center">
-  <a href="https://m0rmdn.web.app"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://mormdn.app"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:mormdn@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mormdn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/mormdn"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
