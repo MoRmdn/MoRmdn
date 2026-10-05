@@ -8,6 +8,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mormdn.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:morm9n@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mormdn)
+[![dev.to](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/mormdn)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mormdn)
 
 </div>
 
