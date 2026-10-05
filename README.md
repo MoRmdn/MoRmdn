@@ -1,201 +1,150 @@
-# Mohamed Ramadan — portfolio
+<div align="center">
 
-Single-page portfolio. Next.js 16, statically exported, hosted on Firebase.
+# Mohamed Ramadan
 
-**Live:** [mormdn.com](https://mormdn.com)
+**Senior Flutter Developer · Production Mobile Apps**<br>
+📍 Mansoura, Egypt 🇪🇬 · Open to roles in KSA · Kuwait · Remote
 
-Flutter developer in Mansoura. Five years of cross-platform apps. The page is
-one scroll: Hero, About, Experience, Projects, Skills, Contact.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mormdn.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:morm9n@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mormdn)
+[![CV](https://img.shields.io/badge/CV-000000?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/MoRmdn/MoRmdn/blob/main/myResume.pdf)
 
-## Why React
+</div>
 
-The previous version was Flutter Web. Flutter paints text into a `<canvas>`, so
-search engines, link previews, screen readers, and Cmd+F all saw an empty
-document. For a portfolio, being unfindable is a product defect.
-
-This export ships the CV as HTML. The page still reads with JavaScript off.
-
-Do not put copy behind a canvas, a closed accordion that unmounts, or a
-client-only fetch. That would undo the port.
-
-## Stack
-
-| | |
-|---|---|
-| App | Next.js 16 (App Router), React 19, TypeScript |
-| Style | Tailwind 4, design tokens in `app/globals.css` |
-| Hosting | Firebase Hosting, project `m0rmdn` |
-| Data | Firebase Realtime Database — live view counter only |
-| Node | 22 |
-
-No router, no state library. It is one page. `"use client"` only where the
-browser is required (nav, motion, the live counter).
-
-## Getting started
-
-```bash
-cp .env.example .env
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-Fill `.env` from Firebase → Project settings → Your apps → SDK config.
-`.env` is gitignored on purpose: GitHub secret scanning flags the web API key
-even though it ships in the client bundle anyway.
-
-| Variable | |
-|---|---|
-| `NEXT_PUBLIC_FIREBASE_API_KEY` | Web API key |
-| `NEXT_PUBLIC_FIREBASE_APP_ID` | App ID |
-| `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID` | Sender ID |
-| `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | `m0rmdn` |
-| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | `m0rmdn.firebaseapp.com` |
-| `NEXT_PUBLIC_FIREBASE_DATABASE_URL` | Realtime Database URL |
-| `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET` | Storage bucket |
-| `NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID` | Analytics (`G-…`) |
-
-Access control is `database.rules.json`, not the API key.
-
-## Scripts
-
-| Command | |
-|---|---|
-| `npm run dev` | Dev server on :3000 |
-| `npm run build` | Static export to `out/` |
-| `npm run typecheck` | `tsc --noEmit` |
-| `npm run lint` | ESLint |
-| `npm run images` | AVIF/WebP from `public/images/*-src.png` |
-| `npm run og` | Regenerate `public/og.png` |
-| `npm run brief` | Print a content dump for review |
-
-Before calling a change done:
-
-```bash
-npm run typecheck && npm run lint && npm run build
-```
-
-## Editing content
-
-Every word and number lives in `content/`. Change the files, not the components.
-
-| File | |
-|---|---|
-| `site.ts` | Name, title, links, metrics |
-| `copy.ts` | Section prose |
-| `experience.ts` | Roles and achievement bullets |
-| `projects.ts` | Case studies |
-| `skills.ts` | Skill groups |
-| `types.ts` | Shared shapes |
-
-If the CV changes, update `content/` so the page stays the source of truth.
-
-Project screenshots: drop `public/images/<slug>-src.png`, run `npm run images`,
-set `image` on that project in `projects.ts`.
-
-## Layout
+## `$ whoami`
 
 ```
-app/            layout, page, design tokens
-components/
-  brand/        logo SVGs
-  ui/           Section, Eyebrow, Button, Tag
-  motion/       reveal, count-up, cursor glow, marquee
-  sections/     one file per band of the page
-content/        copy and numbers
-lib/            Firebase (dynamic import), hooks
-design/         Obsidian & Copper — visual authority
-scripts/        image and OG generation
+> I build Flutter apps that ship to the stores and stay maintainable
+  after launch. Clean Architecture, feature-first structure, state
+  chosen per feature, Firebase and REST/GraphQL on the backend side.
+
+> 5+ years of Flutter across product teams in Saudi Arabia, Morocco,
+  Libya, Türkiye, the UK and Egypt. Five apps live on Google Play
+  and the App Store, several built solo from empty repo to release.
+
+> I'm known for the awkward part of mobile: apps that work with no
+  signal, Arabic-first RTL by design, and payments across seven
+  gateways.
+
+> The hard part is never the first screen. It's the codebase still
+  being easy to change a year later.
 ```
 
-## Design
+---
 
-Codename **Obsidian & Copper**. Read `design/` before touching UI.
+## `$ ls ~/shipped`
 
-Short rules that leak into code:
+Apps in production, built and published end to end.
 
-- No raw hex in components — tokens live in `app/globals.css`
-- One copper accent per viewport
-- `--color-bone-52` is the contrast floor for readable text
-- Every animation has a `prefers-reduced-motion` fallback to the finished state
-- Fonts are `next/font`. Do not add a Google Fonts `<link>`
+**Published apps**
 
-## Firebase
+- **MisMar** — Arabic-first vehicle maintenance and repair platform for Egyptian drivers, with a seven-stage service flow from request to delivery. *Current role.*
+- **Arcit-AI** — social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking. [App Store](https://apps.apple.com/eg/app/arcit-ai/id6503910700) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.arcitAI)
+- **Lpermis** / **Lpermis Pro** — driving-theory testing and lesson booking for driving schools across Morocco, plus a multi-role edition for schools. Led from architecture to release. [Lpermis](https://apps.apple.com/eg/app/lpermis/id1635317382) ([Play](https://play.google.com/store/apps/details?id=com.demetre.code)) · [Lpermis Pro](https://apps.apple.com/eg/app/lpermis-pro/id6467557160) ([Play](https://play.google.com/store/apps/details?id=com.demetre.institution))
+- **Mutabbib** — medical social network connecting patients with hospitals, clinics and doctors; real-time scheduling lifted bookings 25%. [App Store](https://apps.apple.com/eg/app/mutabbib-%D9%85%D8%B7%D8%A8%D8%A8/id6563148338) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.mutabbib)
+- **Saber Yamen** — multi-vendor marketplace for new and used items, built from scratch. [App Store](https://apps.apple.com/gb/app/saber/id6467415590) · [Google Play](https://play.google.com/store/apps/details?id=com.elevenstars.saber)
 
-The SDK is loaded dynamically in `lib/firebase.ts` (~350 KB). A static import
-would put it on the first-load path.
+<sub>Also shipped: Dental Dinar · FreeDoc · O'Permis · Savior App</sub>
 
-Realtime Database paths:
+**Client work**
 
-- `views/total` — incremented once per visit, streamed live
-- `contact_submissions/` — closed. There is no form; enquiries go to the
-  channels in `content/site.ts`
+- **AYCO Maintenance Reports** — Arabic-first field-service app for medical-equipment maintenance: barcode scanning, on-device signatures, and QR-coded PDF reports. Built solo on Flutter and Firebase.
 
-## Deploy
+  <details>
+  <summary>How it works offline</summary>
 
-Local:
+  - Firestore writes race a timeout; if the timeout wins, the technician sees *queued*, not *failed*, and the visit syncs later.
+  - Up to 100 devices per visit, written in resumable 25-report transaction chunks, with report numbers issued transactionally.
+  - Three-role permissions (super admin, admin, technician) enforced server-side in Cloud Functions and security rules.
+  - Two build flavours bound to separate dev and prod Firebase projects.
 
-```bash
-npm run build
-npx firebase hosting:channel:deploy preview --project m0rmdn   # throwaway URL
-npx firebase deploy --only hosting --project m0rmdn            # https://mormdn.com
-```
+  </details>
 
-A preview channel does not update production. Use the second command for
-[mormdn.com](https://mormdn.com). Firebase's `m0rmdn.web.app` address remains
-available as a hosting fallback.
+- **Delivery platform** — subscription-based access with timed visibility of incoming requests.
+- **Sports platform** — Flutter client integrated with an existing GraphQL backend.
 
-### Custom domain
+**How I build**
 
-The canonical production URL is `https://mormdn.com`. The Firebase project ID
-remains `m0rmdn`; changing it would create a different backend rather than
-change the site's public address.
+- **Clean Architecture, feature-first** — each feature owns its data, domain, and presentation layers.
+- **State chosen per feature** — Riverpod, Bloc / Cubit, Provider or GetX, matched to the complexity and data flow.
+- **Firebase + REST / GraphQL** for auth, data, and push — with offline-first sync and server-side authorisation.
+- **Architecture before code** — the plan comes first, generation and implementation second.
 
-The apex is live. The DNS zone currently holds:
+---
 
-| Host | Type | Value | Status |
-|---|---|---|---|
-| `@` | `A` | `199.36.158.100` | live |
-| `@` | `TXT` | `hosting-site=m0rmdn` | live |
-| `www` | — | — | **not configured** |
+## `$ stack`
 
-Remove the registrar's parking `A` records before adding the Firebase `A`
-record. Firebase provisions and renews the TLS certificate after DNS propagates.
+**Mobile**
 
-**`www.mormdn.com` does not resolve yet.** To add it: Firebase console →
-Hosting → site `m0rmdn` → *Add custom domain* → `www.mormdn.com` → **Redirect
-to an existing URL** → `mormdn.com`, permanent (301). Add whichever record the
-console then issues — take it from the console rather than assuming a `CNAME`,
-because the redirect flow does not always issue the same record type as a
-served domain. Update the table above once it is in place, and confirm with:
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-000000?style=flat-square)
+![Bloc](https://img.shields.io/badge/Bloc_/_Cubit-000000?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-000000?style=flat-square)
+![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-```bash
-curl -sSI https://www.mormdn.com/   # expect 301 → https://mormdn.com/
-```
+**Backend & Data**
 
-### Search Console
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-000000?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white)
 
-`mormdn.com` supports a **Domain** property, verified by a DNS `TXT` record.
-**Add** the `google-site-verification=…` record alongside the existing
-`hosting-site=m0rmdn` one — several `TXT` records can coexist at `@`, and
-replacing the Firebase record breaks hosting.
+**Tooling**
 
-`GOOGLE_SITE_VERIFICATION` in `.env` covers a separate URL-prefix property via
-the meta tag in `app/layout.tsx`; the two are independent.
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/AI--assisted_dev-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-The old `m0rmdn.web.app` address still serves the same build at `200`. Search
-Console's Change of Address tool cannot be used for it: that tool requires the
-old site to `301` to the new one, and Firebase Hosting has no host-conditional
-redirect for its own `.web.app` domain. Consolidation happens through the
-`rel="canonical"` pointing at `mormdn.com`, which both hosts serve.
+<sub>Also shipped with: Cloud Functions · Firestore Security Rules · Hive · Pusher · Google ML Kit · Google Maps · Provider · GitFlow · unit & widget testing · payments via FlutterWave, PayU, PayPal, PayStack, Moyasar, Fawry, Stripe</sub>
 
-CI (`.github/workflows/firebase-deploy.yml`):
+---
 
-- Pull requests → 7-day preview channel
-- Push to `main` → live hosting
+## `$ ls ~/projects`
 
-GitHub Actions secrets required:
+### 🎙️ Personal finance app — *Arabic voice to transactions* <kbd>in progress</kbd>
 
-- Every `NEXT_PUBLIC_FIREBASE_*` variable above
-- `FIREBASE_SERVICE_ACCOUNT` — JSON key for the Firebase deploy action
+Speak a transaction in Arabic, get a structured entry. <!-- TODO: status, stack, repo link -->
+
+▸ <!-- github.com/MoRmdn/REPO -->
+
+### 🧩 JS Quest — *free 100-question JavaScript course* <kbd>live</kbd>
+
+Five chapters that unlock in order, progress saved to Postgres, and answers kept server-side behind row-level security so the quiz can't be beaten from the network tab. React, Vite, Supabase.
+
+▸ [js-basics-quiz.vercel.app](https://js-basics-quiz.vercel.app)
+
+---
+
+## `$ history --career`
+
+| Period | Role | Company | Location |
+|:--|:--|:--|:--|
+| **2025.01 → now** | **Flutter Developer** | **[MisMar](https://mismarapp.com/)** | **KSA · remote** |
+| 2024.01 → 2026.01 | Mid-Level Flutter Developer | Ebdda LTD | Libya · remote |
+| 2023.12 → 2024.12 | Mid-Level Flutter Developer | Arcit-AI | KSA · remote |
+| 2023.03 → 2025.01 | Mid-Level Flutter Developer | Demeter | Morocco · remote |
+| 2023.03 → 2024.02 | Medior Flutter Developer | Eleven Stars | Türkiye · remote |
+
+<details>
+<summary><b>Earlier roles</b></summary>
+
+| Period | Role | Company | Location |
+|:--|:--|:--|:--|
+| 2022.05 → 2023.01 | Junior Flutter Developer | Bracket Media Ltd | England · remote |
+| 2021.04 → 2022.05 | Junior Flutter Developer | Cyparta | Egypt |
+
+</details>
+
+---
+
+## `$ ping`
+
+📧 [morm9n@gmail.com](mailto:morm9n@gmail.com) · 🔗 [linkedin.com/in/mormdn](https://www.linkedin.com/in/mormdn) · 🌐 [mormdn.com](https://mormdn.com)
+
+<sub><b>B.Sc. Computer Science — Bioinformatics</b>, Mansoura University (2021) · 🇪🇬 Arabic native · 🇬🇧 English professional working proficiency</sub>
+
+<div align="center"><sub>~ Mohamed Ramadan</sub></div>
