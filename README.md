@@ -3,7 +3,7 @@
 # Mohamed Ramadan
 
 **Senior Flutter Developer · Production Mobile Apps**<br>
-📍 Suez, Egypt 🇪🇬 · Open to roles in KSA · Kuwait · Remote
+📍 Mansoura, Egypt 🇪🇬 · Open to roles in KSA · Kuwait · Remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mormdn.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:morm9n@gmail.com)
