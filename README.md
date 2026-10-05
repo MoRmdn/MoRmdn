@@ -1,53 +1,80 @@
-![Mohamed Ramadan](https://raw.githubusercontent.com/MoRmdn/MoRmdn/main/wallpaperflare-cropped.jpg)
+<div align="center">
 
-<h1 align="center">Mohamed Ramadan</h1>
-<h3 align="center">Flutter Developer — cross-platform apps for Android and iOS</h3>
+# Mohamed Ramadan
 
-<p align="center">
-  <a href="https://mormdn.com"><img src="https://img.shields.io/badge/Portfolio-mormdn.com-D95A15?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shipped-5%20apps%20on%20App%20Store%20%26%20Google%20Play-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Mansoura%2C%20Egypt-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Gulf%20roles-8A2BE2?style=flat-square" />
-</p>
+**Senior Flutter Developer · Production Mobile Apps**<br>
+📍 Suez, Egypt 🇪🇬 · Open to roles in KSA · Kuwait · Remote
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mormdn.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:morm9n@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mormdn)
+[![CV](https://img.shields.io/badge/CV-000000?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/MoRmdn/MoRmdn/blob/main/myResume.pdf)
+[![dev.to](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/mormdn)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mormdn)
 
-I build and ship production Flutter apps end to end — architecture, state, Firebase back end, store release. Five years of it, delivered remotely to teams in Saudi Arabia, Morocco, Libya, Türkiye, Algeria and the UK, across healthcare, e-commerce, driver education, field service and AI platforms.
+</div>
 
-The work I am known for is the awkward part of mobile: apps that stay usable with no signal, Arabic-first interfaces that are right-to-left by design rather than by patch, and payment flows that have to clear in seven different gateways.
+## `$ whoami`
 
-- **Portfolio → [mormdn.app](https://mormdn.app)**
-- Currently a Flutter Developer at **[MisMar](https://mismarapp.com/)**
-- Five apps live on the App Store and Google Play, several built solo from empty repo to release
-- Offline-first Firestore synchronisation, Cloud Functions, and security-rule authorisation
-- Arabic-first RTL localisation, on-device PDF generation, barcode and QR scanning, Google ML Kit
-- Bloc, Cubit, GetX, Provider and Riverpod — chosen per feature, not per habit
-- Writing at [dev.to/mormdn](https://dev.to/mormdn) · [Full CV](https://github.com/MoRmdn/MoRmdn/blob/main/myResume.pdf)
+```
+> I build Flutter apps that ship to the stores and stay maintainable
+  after launch. Architecture, state, Firebase back end, store release,
+  end to end.
 
----
+> 5+ years of Flutter, delivered remotely to teams in Saudi Arabia,
+  Morocco, Libya, Türkiye, Algeria and the UK, across healthcare,
+  e-commerce, driver education, field service and AI platforms.
+  Currently a Flutter Developer at MisMar.
 
-### Selected work
+> The work I'm known for is the awkward part of mobile: apps that stay
+  usable with no signal, Arabic-first interfaces that are RTL by design
+  rather than by patch, and payment flows that have to clear in seven
+  different gateways.
 
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **Arcit-AI** | Social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking and task automation | Bloc, AI model integration | [App Store](https://apps.apple.com/eg/app/arcit-ai/id6503910700) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.arcitAI) |
-| **Mutabbib** | Medical social network connecting patients with hospitals, clinics and doctors, with schedule and availability tracking | Bloc, real-time sync, secure storage | [App Store](https://apps.apple.com/eg/app/mutabbib-%D9%85%D8%B7%D8%A8%D8%A8/id6563148338) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.mutabbib) |
-| **Lpermis** | Driving-theory testing and appointment booking, used by driving schools across Morocco. Led from initial architecture to release | GetX | [App Store](https://apps.apple.com/eg/app/lpermis/id1635317382) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.code) |
-| **Lpermis Pro** | Companion edition for schools managing lesson bookings across multiple user roles | Cubit, multi-role logic | [App Store](https://apps.apple.com/eg/app/lpermis-pro/id6467557160) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.institution) |
-| **Saber Yamen** | Multi-vendor marketplace for new and used items, built from scratch | GetX | [App Store](https://apps.apple.com/gb/app/saber/id6467415590) · [Google Play](https://play.google.com/store/apps/details?id=com.elevenstars.saber) |
-
-Also shipped: **MisMar** (vehicle service, Egypt) · **FreeDoc** (trilingual doctor booking, Algeria) · **O'Permis** (driving licences, Morocco) · **Dental Dinar** (oral-health companion) · **Savior App**.
+> The hard part is never the first screen. It's the codebase still
+  being easy to change a year later.
+```
 
 ---
 
-### Case study — AYCO Maintenance Reports
+## `$ ls ~/shipped`
+
+Five apps live on the App Store and Google Play, several built solo from empty repo to release.
+
+**Published apps**
+
+- **Arcit-AI** — social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking and task automation. *Bloc, AI model integration.* [App Store](https://apps.apple.com/eg/app/arcit-ai/id6503910700) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.arcitAI)
+- **Lpermis** — driving-theory testing and appointment booking, used by driving schools across Morocco. Led from initial architecture to release. *GetX.* [App Store](https://apps.apple.com/eg/app/lpermis/id1635317382) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.code)
+- **Lpermis Pro** — companion edition for schools managing lesson bookings across multiple user roles. *Cubit, multi-role logic.* [App Store](https://apps.apple.com/eg/app/lpermis-pro/id6467557160) · [Google Play](https://play.google.com/store/apps/details?id=com.demetre.institution)
+- **Mutabbib** — medical social network connecting patients with hospitals, clinics and doctors, with schedule and availability tracking. *Bloc, real-time sync, secure storage.* [App Store](https://apps.apple.com/eg/app/mutabbib-%D9%85%D8%B7%D8%A8%D8%A8/id6563148338) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.mutabbib)
+- **Saber Yamen** — multi-vendor marketplace for new and used items, built from scratch. *GetX.* [App Store](https://apps.apple.com/gb/app/saber/id6467415590) · [Google Play](https://play.google.com/store/apps/details?id=com.elevenstars.saber)
+
+<sub>Also shipped: <b>MisMar</b> (vehicle service, Egypt) · <b>FreeDoc</b> (trilingual doctor booking, Algeria) · <b>O'Permis</b> (driving licences, Morocco) · <b>Dental Dinar</b> (oral-health companion) · <b>Savior App</b></sub>
+
+**Client work**
+
+- **AYCO Maintenance Reports** — Arabic-first, offline-first field-service app with barcode scanning, on-device signatures, and QR-coded PDF reports. *Case study below.*
+- **Delivery platform** — subscription-based access with timed visibility of incoming requests.
+- **Sports platform** — Flutter client integrated with an existing GraphQL backend.
+
+**How I build**
+
+- **Clean Architecture, feature-first** — each feature owns its data, domain, and presentation layers. SOLID throughout.
+- **State management chosen per feature, not per habit** — Riverpod, Bloc, Cubit, Provider, GetX.
+- **Firebase + REST / GraphQL** — offline-first Firestore sync, Cloud Functions, security-rule authorisation.
+- **Arabic-first RTL** localisation, on-device PDF generation, barcode and QR scanning, Google ML Kit.
+- **Architecture before code** — the plan comes first, generation and implementation second.
+
+---
+
+## `$ cat ~/case-studies/ayco.md`
 
 An Arabic-first field-service reporting app for a medical-equipment maintenance company. Built solo, end to end, on Flutter and Firebase. Private client delivery, so the source is closed — the engineering is below.
 
 **The problem.** Technicians service hospital equipment in basements and shielded rooms where connectivity drops, then have to produce a signed, numbered PDF report per device before they leave site.
 
-**What I built.**
+<details>
+<summary><b>What I built</b></summary>
 
 - **Every write is offline-safe.** Firestore writes race against a timeout; if the timeout wins, the result surfaces to the technician as *queued*, not *failed*. A visit completes with no connectivity and reconciles later.
 - **Batching inside Firestore's limits.** Up to 100 devices per visit, written in resumable 25-report transaction chunks to stay under the transaction cap, with report numbers issued transactionally so two technicians can never claim the same one.
@@ -55,83 +82,112 @@ An Arabic-first field-service reporting app for a medical-equipment maintenance 
 - **Two build flavours** bound to separate development and production Firebase projects.
 - Device serial scanning with registry auto-fill, technician and client signature capture, and on-device numbered PDF generation with QR archival.
 
----
-
-### Also on the web
-
-**[JS Quest](https://js-basics-quiz.vercel.app)** — a free 100-question JavaScript course, built on React, Vite and Supabase. Five chapters that unlock in order, progress saved to Postgres so you can close the tab and come back, and correct answers withheld server-side behind row-level security — the quiz can't be beaten by reading the network tab. Written this year alongside Scrimba's JavaScript and React courses, with Next.js in progress.
+</details>
 
 ---
 
-### Tech stack
+## `$ cat results.log`
 
-**Languages** ·
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<sub>As reported by the client teams I delivered to.</sub>
 
-**State management** ·
-![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-13B9FD?style=for-the-badge&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0288D1?style=for-the-badge&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4CAF50?style=for-the-badge&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logoColor=white)
-
-**Back end and data** ·
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logoColor=black)
-
-**Practices** ·
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-FF5722?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Unit_%26_Widget_Testing-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Payments** · FlutterWave · PayU · PayPal · PayStack · Moyasar · Fawry · Stripe
+```
++25%  appointment bookings on Mutabbib       real-time notifications + scheduling
+-20%  data load times at Eleven Stars         state-management optimisation
++15%  retention & engagement on Arcit-AI      data-interaction interface
++15%  user satisfaction at Bracket Media      Null Safety migration + UI redesign
++12%  retention, -10% binary size at Cyparta
+```
 
 ---
 
-### Measured results
+## `$ stack`
 
-Figures below are as reported by the client teams I delivered to.
+**Mobile**
 
-- 25% increase in appointment bookings on Mutabbib after real-time notification and scheduling
-- 20% reduction in data load times through state-management optimisation at Eleven Stars
-- 15% improvement in user retention and engagement on Arcit-AI's data-interaction interface
-- 15% increase in user satisfaction after leading a Null Safety migration and UI redesign at Bracket Media
-- 12% improvement in user retention and a 10% smaller binary at Cyparta
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**State management**
+
+![Riverpod](https://img.shields.io/badge/Riverpod-000000?style=flat-square)
+![Bloc](https://img.shields.io/badge/Bloc-000000?style=flat-square)
+![Cubit](https://img.shields.io/badge/Cubit-000000?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-000000?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-000000?style=flat-square)
+
+**Backend & Data**
+
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-000000?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-000000?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socketdotio&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-000000?style=flat-square&logo=pusher&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-000000?style=flat-square)
+
+**Practices & Tooling**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=flat-square)
+![Testing](https://img.shields.io/badge/Unit_%26_Widget_Testing-000000?style=flat-square)
+![GitFlow](https://img.shields.io/badge/GitFlow-000000?style=flat-square&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/AI--assisted_dev-000000?style=flat-square&logo=anthropic&logoColor=white)
+
+**Also writes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+
+<sub>Payments shipped with: FlutterWave · PayU · PayPal · PayStack · Moyasar · Fawry · Stripe</sub>
 
 ---
 
-### Background
+## `$ ls ~/projects`
 
-B.Sc. Bioinformatics, Mansoura University (2021) — final-year project graded A+, on mobile application data analysis and visualisation.
-Google Flutter Developer Certification, Udemy (2022) · Android Basics Nanodegree, Udacity (2020) · Learn JavaScript and Learn React, Scrimba (2026).
-Arabic — native. English — professional working proficiency.
+### 🎙️ Personal finance app — *Arabic voice to transactions* <kbd>in progress</kbd>
+
+Speak a transaction in Arabic, get a structured entry. <!-- TODO: status, stack, repo link -->
+
+▸ <!-- github.com/MoRmdn/REPO -->
+
+### 🧩 JS Quest — *free 100-question JavaScript course* <kbd>live</kbd>
+
+Five chapters that unlock in order, progress saved to Postgres so you can close the tab and come back, and correct answers withheld server-side behind row-level security — the quiz can't be beaten by reading the network tab. React, Vite and Supabase.
+
+▸ [js-basics-quiz.vercel.app](https://js-basics-quiz.vercel.app)
 
 ---
 
-<p align="center">
-  <a href="https://mormdn.com"><img src="https://img.shields.io/badge/Portfolio-D95A15?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:mormdn@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mormdn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/mormdn"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/mormdn"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-</p>
+## `$ history --career`
 
-<!-- <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MoRmdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoRmdn&layout=compact&theme=tokyonight&langs_count=8" />
-</p> -->
+| Period | Role | Company | Location |
+|:--|:--|:--|:--|
+| **YYYY.MM → now** | **Flutter Developer** | **[MisMar](https://mismarapp.com/)** | **Egypt** |
+| YYYY.MM → now | Flutter Developer *(Freelance)* | Independent | KSA · MA · LY · TR · DZ · UK |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MoRmdn&theme=tokyonight" />
-</p>
+<details>
+<summary><b>Earlier roles</b></summary>
+
+| Period | Role | Company | Location |
+|:--|:--|:--|:--|
+| YYYY.MM → YYYY.MM | Flutter Developer | Eleven Stars | TODO |
+| YYYY.MM → YYYY.MM | Flutter Developer | Bracket Media | TODO |
+| YYYY.MM → YYYY.MM | Flutter Developer | Cyparta | TODO |
+
+</details>
+
+---
+
+## `$ ping`
+
+📧 [morm9n@gmail.com](mailto:morm9n@gmail.com) · 🔗 [linkedin.com/in/mormdn](https://www.linkedin.com/in/mormdn) · 🌐 [mormdn.com](https://mormdn.com) · ✍️ [dev.to/mormdn](https://dev.to/mormdn)
+
+<sub><b>B.Sc. Bioinformatics</b>, Mansoura University (2021) — final-year project graded A+ · Google Flutter Developer Certification, Udemy (2022) · Android Basics Nanodegree, Udacity (2020) · Learn JavaScript & Learn React, Scrimba (2026)</sub><br>
+<sub>🇪🇬 Arabic native · 🇬🇧 English professional working proficiency</sub>
+
+<div align="center"><sub>~ Mohamed Ramadan</sub></div>
