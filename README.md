@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://mormdn.com"><img src="banner.png" alt="Mohamed Ramadan, Software Engineer. Cross-platform mobile and web apps. mormdn.com" width="100%"></a>
+
 
 # Mohamed Ramadan
 
