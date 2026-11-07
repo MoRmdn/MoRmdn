@@ -2,7 +2,7 @@
 
 # Mohamed Ramadan
 
-**Senior Flutter Developer · Production Mobile Apps**<br>
+**Software Engineer · Cross-Platform Mobile and Web Applications**<br>
 📍 Mansoura, Egypt 🇪🇬 · Open to roles in KSA · Kuwait · Remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://mormdn.com)
@@ -19,6 +19,9 @@
 > I build Flutter apps that ship to the stores and stay maintainable
   after launch. Clean Architecture, feature-first structure, state
   chosen per feature, Firebase and REST/GraphQL on the backend side.
+
+> Today that includes the web: I contribute to NAAS, a B2B Flutter
+  Web platform for fleet repair and car insurance claims.
 
 > 5+ years of Flutter across product teams in Saudi Arabia, Morocco,
   Libya, Türkiye, the UK and Egypt. Five apps live on Google Play
@@ -38,9 +41,12 @@
 
 Apps in production, built and published end to end.
 
+**Current role**
+
+- **NAAS Dashboard** — MisMar's B2B web platform for fleet repair and car insurance claims. Insurers, fleet owners, workshops and parts vendors work in one workflow: claims, quotations, orders, invoices and salvage sales, with 20+ role-based user types, in Arabic and English with right-to-left layouts. Flutter Web on Clean Architecture. Sign-in only.
+
 **Published apps**
 
-- **MisMar** — Arabic-first vehicle maintenance and repair platform for Egyptian drivers, with a seven-stage service flow from request to delivery. *Current role.*
 - **Arcit-AI** — social platform matching architecture and home-improvement providers with clients, with AI-driven matchmaking. [App Store](https://apps.apple.com/eg/app/arcit-ai/id6503910700) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.arcitAI)
 - **Lpermis** / **Lpermis Pro** — driving-theory testing and lesson booking for driving schools across Morocco, plus a multi-role edition for schools. Led from architecture to release. [Lpermis](https://apps.apple.com/eg/app/lpermis/id1635317382) ([Play](https://play.google.com/store/apps/details?id=com.demetre.code)) · [Lpermis Pro](https://apps.apple.com/eg/app/lpermis-pro/id6467557160) ([Play](https://play.google.com/store/apps/details?id=com.demetre.institution))
 - **Mutabbib** — medical social network connecting patients with hospitals, clinics and doctors; real-time scheduling lifted bookings 25%. [App Store](https://apps.apple.com/eg/app/mutabbib-%D9%85%D8%B7%D8%A8%D8%A8/id6563148338) · [Google Play](https://play.google.com/store/apps/details?id=com.mormdn.mutabbib)
